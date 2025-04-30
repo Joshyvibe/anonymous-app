@@ -4,6 +4,12 @@
 
 This repository contains resources to help you build a comprehensive anonymous voice app. The project utilizes **Django** for the backend and **React** for the frontend.
 
+This repository is featured in a video tutorial available on my YouTube channel, 'Joshyvibe'
+
+
+[Visit my YouTube Channel to watch video](https://youtu.be/tL747QkD5GE?si=fSZVHqTeUuHfzyj3)
+
+
 ---
 
 ## Key Features
