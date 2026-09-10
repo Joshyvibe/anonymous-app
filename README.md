@@ -1,5 +1,3 @@
----
-
 # Anonymous app
 
 This repository contains resources to help you build a comprehensive anonymous voice app. The project utilizes **Django** for the backend and **React** for the frontend.
